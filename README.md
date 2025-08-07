@@ -34,7 +34,7 @@ The solution required interpreting complex data quickly and translating it into 
 ## 🧩 Dashboard Features
 
 ### 1️⃣ Project Overview & Financials
-![Project Overview & Financials](images/project-overview-financials.png)
+![Project Overview & Financials](https://github.com/Priti-Gurav/Property-Service-Management-Report/blob/main/Project%20Overview%20%26%20Financials.png)
 
 - Contract value vs delivered performance
 - Regional distribution of active contracts
@@ -43,7 +43,7 @@ The solution required interpreting complex data quickly and translating it into 
 ---
 
 ### 2️⃣ Quality & Client Satisfaction
-![Quality & Client Satisfaction](images/client-satisfaction.png)
+![Quality & Client Satisfaction](https://github.com/Priti-Gurav/Property-Service-Management-Report/blob/main/Quality%20%26%20Client%20Satisfaction.png)
 
 - CSAT scoring across contracts
 - Client feedback trends and red flags
@@ -52,7 +52,7 @@ The solution required interpreting complex data quickly and translating it into 
 ---
 
 ### 3️⃣ Sustainability & Workforce Metrics
-![Sustainability & Workforce Metrics](images/workforce-compliance.png)
+![Sustainability & Workforce Metrics](https://github.com/Priti-Gurav/Property-Service-Management-Report/blob/main/Sustainability%20%26%20Workforce%20Metrics.png)
 
 - Training compliance by region
 - Workforce performance vs target
