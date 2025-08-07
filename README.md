@@ -31,9 +31,9 @@ The solution required interpreting complex data quickly and translating it into 
 
 ---
 
-## 🧩 Dashboard Features
+👉 [Click to view the PowerPoint presentation](https://github.com/Priti-Gurav/Property-Service-Management-Report/blob/main/PROJECT%20DATA%20Analysis%20for%20Property%20Services.pptx)
 
-👉 [Click to view the PowerPoint presentation]()
+## 🧩 Dashboard Features
 
 ### 1️⃣ Project Overview & Financials
 ![Project Overview & Financials](https://github.com/Priti-Gurav/Property-Service-Management-Report/blob/main/Project%20Overview%20%26%20Financials.png)
