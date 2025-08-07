@@ -33,6 +33,8 @@ The solution required interpreting complex data quickly and translating it into 
 
 ## 🧩 Dashboard Features
 
+👉 [Click to view the PowerPoint presentation]()
+
 ### 1️⃣ Project Overview & Financials
 ![Project Overview & Financials](https://github.com/Priti-Gurav/Property-Service-Management-Report/blob/main/Project%20Overview%20%26%20Financials.png)
 
